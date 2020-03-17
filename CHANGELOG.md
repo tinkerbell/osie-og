@@ -6,3 +6,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) t
 ## Unreleased
 ### Fixed
 - grub-install.sh in legacy boot on historically UEFI machines returing non-zero exit when not actually failed
+- Installation of mc client instead of minio server in shell.nix

@@ -21,7 +21,7 @@ mkShell {
     gnumake
     gnused
     libarchive
-    minio
+    minio-client
     pigz
     python3
     python3Packages.black
